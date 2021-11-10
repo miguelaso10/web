@@ -1,0 +1,181 @@
+/*body {
+	background-color: black;
+
+	/*background: linear-gradient(217deg,green, yellow,blue);*/
+/*}
+.micolor { /*color del navbar*/
+	/*
+	background-color: white;
+}
+.color { /*Color de la section1*//*
+	background-color: black;
+	color: black;
+}
+.cuerpo {
+	background-color: red;
+}
+*/
+/*
+nav {
+	margin-bottom: 20px;
+}
+*//*
+.mic{
+    background-color: black;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+.bg {
+    background-color: #397C7E;
+}
+.misss {
+    background-color: #397C7E;
+}
+
+.micolor {
+
+min-height: 300px;
+} Queriendo cambiar color a la imagen
+.imagenn {
+    background-image: url('Media/bu.jpg');
+    background-color: rgb(0, 0, 0);
+    background-blend-mode: soft-light;
+}
+.fondom{
+    background-image: url('Media/fondoim.webp');
+    width: 100%;
+    height: 100vh;
+}*/
+.colormodal{
+    background-color: #CFDACD;
+}
+.mdl{
+    background: linear-gradient(200deg,blue,#CFDACD,yellow,#CFDACD,green,black);
+}
+.mdls{
+    background: linear-gradient(200deg,orange,blue);
+}
+.mimodala {
+    background-color: red;
+    /*
+   background: linear-gradient(217deg,green, yellow,blue); */
+}
+.fondom{
+
+}
+.text{
+    background-color: ;
+}
+.com{
+    background-color: ;
+    color: ;
+}
+
+.cabeza{
+    color: white;
+}
+.colorr{
+    background-color: #CFDACD;
+}
+.colortxt {
+    background-color: red;
+}
+
+.btncolor{
+    color: blue;
+}
+.inicio{
+    font-family: Arial;
+    color: black;
+}
+.display{
+    color: blue;
+}
+.mision{
+   font-family: Helvetica Neue;
+    color: black;
+    font-size: 22px; 
+}
+.vision {
+    font-family: Helvetica Neue;
+    color: black;
+    font-size: 22px;
+}
+.colormv {
+    background-color: #8888ED;
+}
+.bbb{
+    font-family: initial;
+    color: blue;
+}
+/*
+.parrafo {
+font-family: sans-serif;
+font-size: 22px;
+font-size: 20;
+color: black;
+}*/
+.bodym {
+    background-color: #CFDACD;
+}
+
+.ppp {
+    /*background: linear-gradient(green, yellow,blue);*/
+    font-size: 50px;
+    font-size: 20;
+}
+.navbar{
+    background-color: black;
+    padding-top: 0;
+    padding-bottom: 0;
+  border-top: solid #289DCC 5px;
+  color: black;
+}
+
+.navbar-toggler{
+  color: white;
+}
+.marca{
+  font-size: 22px;
+  background-color: ;
+  color: white;
+  padding-top:0px;
+  padding-bottom: 0px;
+}
+.activo{
+    background-color: #289DCC;
+  color: white;
+  text-decoration-color: white;
+}
+.nav-item:{
+  padding: 10px;
+  font-size: 30px;
+}
+.navbar-brand{
+
+}
+.activo{
+    background-color: #049B6A;
+}
+.nav-link:hover{
+  text-transform: uppercase;
+  color: white;
+}
+.tet {
+    font-size: 200;
+}
+
+.ta{
+    font-size: 25px;
+}
+.letrass{
+    font-size: 20px;
+    color: black;
+}
+.bmm {
+    background-color: white;
+}
+.cm {
+    background-color: #7BE6F6;
+}
+
